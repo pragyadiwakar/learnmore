@@ -1,0 +1,8 @@
+Topic branches are often owned by an
+ individual contributor but can also be
+ a designated space for a team to develop 
+a feature upon. Other contributors know that
+ this type of branch could have its commit
+ tree re-written at any moment, and should
+ not try to keep their local branches
+ synchronized with it.
